@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
 import ipaddress
-
+#Hola
 def subnetear_red():
     try:
         # Obtener los valores de las entradas
